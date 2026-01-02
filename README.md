@@ -21,16 +21,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+- 🎓 Junior at **Faculty of Computers & Artificial Intelligence – Matrouh University**
+- 💻 Full Stack Developer (Frontend + Backend)
+- ⚙️ Backend-focused using **Node.js, Express, MongoDB**
+- 🤖 AI-powered & Vibe Coding workflow
+- 🧠 Competitive Programmer (Codeforces, Google Contests)
+- 🚀 Passionate about solving real-world problems using software
+- 📄 Open to job opportunities — [My Resume](https://fadyadel-fady-adels-projects.vercel.app/resume)
+- 🌐 Visit my website — [Portfolio](https://fadyadel-fady-adels-projects.vercel.app)
 
-- :school: I am a `Junior` at [Faculty of Computers & Artificial Intelligence] at [Matrouh University].
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`,`LinkedIn`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` , `Software Engineering` , `Artificial Intelligence`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://fadyadel-fady-adels-projects.vercel.app/resume).
-- :boom: You can visit [MY WEBSITE](https://fadyadel-fady-adels-projects.vercel.app/).
-<br>
+---
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
@@ -115,6 +115,40 @@
 </p>
 
 
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Auth
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-623B1F?style=plastic&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appwrite-2D8CFF?style=plastic&logo=appwrite&logoColor=white"/>
+</p>
+
+
+
+### 🧠 Vibe Coding & AI Tools 🚀
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=plastic&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4D4D?style=plastic&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity%20AI-6A00FF?style=plastic&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white"/>
+</p>
+
+> ⚡ Rapid prototyping, clean architecture & AI-assisted development
+
+
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
  <p align="center">
@@ -139,6 +173,8 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
+
+
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
